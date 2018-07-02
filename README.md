@@ -2,6 +2,6 @@
 
 Before using it you nee to install ```ansi-to-html```:
 
-```php
+```
 npm install ansi-to-html
 ```
